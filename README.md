@@ -1,6 +1,6 @@
 ## setup-cordova
 
-[![Continuous Integration](https://github.com/oxr463/setup-cordova/workflows/Continuous%20Integration/badge.svg)](https://github.com/oxr463/setup-cordova/actions)
+[![Continuous Integration](https://github.com/buluma/setup-cordova/workflows/Continuous%20Integration/badge.svg)](https://github.com/buluma/setup-cordova/actions)
 
 Setup your GitHub Actions workflow with Apache Cordova.
 

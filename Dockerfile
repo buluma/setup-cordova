@@ -1,5 +1,5 @@
-# FROM runmymind/docker-android-sdk:alpine-standalone
-FROM buluma/docker-android-sdk:latest
+FROM runmymind/docker-android-sdk:alpine-standalone
+# FROM buluma/docker-android-sdk:latest
 
 RUN apk update && apk upgrade && \
     apk add gradle npm && \

@@ -4,7 +4,7 @@ inputs:
   exec:
     description: "Apache Cordova command to execute"
     required: true
-author: "oxr463"
+author: "buluma"
 branding:
   color: black
   icon: smartphone
